@@ -28,12 +28,4 @@
 - Amo ver um código funcionando depois de horas de tentativa — é mágico! ✨
 ```
 
----
 
-Só substitua `https://www.linkedin.com/in/seu-usuario` pelo link verdadeiro do seu perfil do LinkedIn. Se quiser, posso fazer isso por você se me passar o link. Deseja?
-
-
-<!---
-Nirla-umbra/Nirla-umbra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
